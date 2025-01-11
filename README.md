@@ -2,16 +2,13 @@
   <img src="images/leetcode-repo-logo.png" width="350" height="200">
 </p>
 <p align="center">
-  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
+  <a href="https://hugs-4-bugs.github.io/AlgoByPrabhat/">Visual Algo</a>
 </p>
 
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
 If you want to practice curated list of LeetCode problems organized by patterns, checkout [AlgoMaster.io](https://algomaster.io)
 
-## 💡 Tips
-- [How to Start LeetCode](https://www.youtube.com/watch?v=Nx4bvwU0DqE)
-- [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
